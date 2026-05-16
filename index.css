@@ -13,7 +13,7 @@ body {
 	color: #86d8fa;
 	text-align: center;
   	padding: 10px;
-  	padding-top:64px;
+  	padding-top:30px;
   	padding-bottom:64px;
   	position: relative;
 }
@@ -22,8 +22,8 @@ body {
 	background-size: 100% auto;
 	background-image: url();
 	overflow: hidden;
-	width: 100%;
-	height: 100%;
+	width: 50%;
+	height: 50%;
 	position: absolute;
 	top: 0;
 	background-position: center;
@@ -45,7 +45,7 @@ body {
 .header h1 {
 	text-shadow: -0px 0 #eee, 0 0px #eee, 0px 0 #eee, 0 -0px #eee;
 	text-transform: uppercase;
-	font-size: 2px;
+	font-size: 1px;
 }
 
 .footer p {
@@ -72,8 +72,8 @@ a {
 }
 
 ul {
-	padding-top:48px;
-	padding-bottom:48px;
+	padding-top:12px;
+	padding-bottom:12px;
 }
 
 li {
